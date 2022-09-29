@@ -1,0 +1,23 @@
+1
+    first we save an array of words in
+    a second file and retrieve it using
+    imports
+
+2  
+    We then create a method to find a 
+    suitable word from the array that doesn'that
+    have a space or a hypen 
+
+3
+    We then start the hangman main method
+    which runs the main portion of the
+    program
+
+4
+    we set the variable
+    {word} to the word
+    {word_letters} = the letters in the word
+    {used_letters} = the letters that have been
+        guessed
+    {guesses} = the max amount of guesses
+    {word_list} = 
