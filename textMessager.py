@@ -3,7 +3,7 @@ import requests
 # resp = requests.post(
 #     "https://textbelt.com/text",
 #     {
-#         "phone": "447578580741",
+#         "phone": "###",
 #         "message": "Hello world",
 #         "key": "textbelt",
 #     },
