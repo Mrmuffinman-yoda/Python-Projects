@@ -2,10 +2,10 @@ from email.message import EmailMessage
 import ssl
 import smtplib
 
-EMAIL_PASS = "rhjkzagypozqmqym"
-EMAIL_SENDER = "dragonz8413@gmail.com"
+EMAIL_PASS = "###"  # add your security key into here
+EMAIL_SENDER = "###"  # their email
 
-EMAIL_RECIEVER = "harisoncom@gmail.com"
+EMAIL_RECIEVER = "###"  # your email
 
 subject = "Don't forget to add a subject!"
 
